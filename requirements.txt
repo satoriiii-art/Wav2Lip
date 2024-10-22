@@ -1,4 +1,4 @@
-librosa==0.10.2.post2
+librosa==0.10.2.post1
 numpy==1.23.5
 opencv-contrib-python==4.8.0.74
 opencv-python==4.8.0.74
