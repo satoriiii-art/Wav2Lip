@@ -2,7 +2,7 @@ librosa==0.10.2.post1
 numpy==1.23.5
 opencv-contrib-python==4.8.0.74
 opencv-python==4.8.0.74
-torch==1.12.1
-torchvision==0.15.2
+torch==2.1.0
+torchvision==0.17.2
 tqdm==4.66.1
-numba==0.57.1
+numba==0.58.1
